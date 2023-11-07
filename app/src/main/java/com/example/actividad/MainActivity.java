@@ -18,6 +18,8 @@ public class MainActivity extends AppCompatActivity {
     EditText ID, Nickname, Campeon;
     Spinner Rol, Division;
 
+    // Primera modificación
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
